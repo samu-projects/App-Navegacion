@@ -102,7 +102,7 @@ body {
     opacity: 1;
     visibility: visible;
     transition-delay: calc(0.75s + var(--i));
-    transform: translateY(t0px);
+    transform: translateY(0px);
 }
 
 .menu ul {
